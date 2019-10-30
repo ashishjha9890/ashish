@@ -1096,6 +1096,7 @@ img {
     width: 100%;
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
+	height: 316px;
 }
 
 .single_gallery_item:hover .product-img > img {
